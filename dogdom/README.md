@@ -46,4 +46,7 @@ A back-end project for the DogDom Social Network. The project is built with the 
 - [Azure Elasticsearch](https://www.elastic.co/)
 
 ## 📈 Architecture Diagram
-![Diagram](https://github.com/EdwardLTC/edward-project/blob/main/fiss/images/Fiss%20architecture.drawio.png?raw=true)
+![Diagram](https://github.com/EdwardLTC/edward-project/blob/main/dogdom/images/architech.png?raw=true)
+
+## 📊 Database Diagram
+![Diagram](https://github.com/EdwardLTC/edward-project/blob/main/dogdom/images/ERD.jpg?raw=true)
