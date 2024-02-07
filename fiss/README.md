@@ -1,4 +1,4 @@
-## Introducing The Project
+## 😎 Introducing The Project
 
 A software engineer (Back-end, Mobile, design system) project for the FISS (Phan Gia Corporation).
 
@@ -21,6 +21,5 @@ A software engineer (Back-end, Mobile, design system) project for the FISS (Phan
 - [Kitten UI](https://akveo.github.io/react-native-ui-kitten/) (UI library)
 - [Redux](https://redux.js.org/) (State management)
 
-
-## Architecture Diagram
-![Diagram](https://github.com/EdwardLTC/edward-project/blob/[branch]/image.jpg?raw=true)
+## 📈 Architecture Diagram
+![Diagram](https://github.com/EdwardLTC/edward-project/blob/main/fiss/images/Fiss%20architecture.drawio.png?raw=true)

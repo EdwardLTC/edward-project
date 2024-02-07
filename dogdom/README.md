@@ -12,6 +12,8 @@ A back-end project for the DogDom Social Network. The project is built with the 
 - [PM2](https://pm2.keymetrics.io/) (Process manager)
 - [Jest](https://jestjs.io/) (Testing)
 - [Azure Cloud Service](https://azure.microsoft.com/en-us/products/cloud-services) (Cloud service)
+- [Nginx](https://www.nginx.com/) (Reverse proxy server)
+- [Momo](https://momo.vn/) (Payment gateway)
  
 > The project referred to [typescript-express-starter](https://github.com/ljlm0402/typescript-express-starter)
 
@@ -42,3 +44,6 @@ A back-end project for the DogDom Social Network. The project is built with the 
 - [Azure MongoDB Atlas](https://azure.microsoft.com/en-us/solutions/mongodb)
 - [Azure Redis Cache](https://azure.microsoft.com/en-us/services/cache/)
 - [Azure Elasticsearch](https://www.elastic.co/)
+
+## 📈 Architecture Diagram
+![Diagram](https://github.com/EdwardLTC/edward-project/blob/main/fiss/images/Fiss%20architecture.drawio.png?raw=true)
